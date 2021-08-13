@@ -59,7 +59,7 @@ The drive link for the same is: [`drive link`](https://drive.google.com/drive/fo
 
 ### License
 
-- [MIT]()
+- [MIT](https://github.com/Surajv311/myCS-NOTES/blob/main/LICENSE)
 
 ----------------------------------
 
