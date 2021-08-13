@@ -11,7 +11,7 @@ The drive link for the same is: [`drive link`](https://drive.google.com/drive/fo
 
 ### Links: 
 
-#### DS-Algo-CP 
+#### DS-Algo
 
 - [Arrays](https://github.com/Surajv311/myCS-NOTES/tree/main/DSA-CP-NOTES/Arrays) 
 - [String](https://github.com/Surajv311/myCS-NOTES/tree/main/DSA-CP-NOTES/Strings)
