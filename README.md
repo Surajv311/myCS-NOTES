@@ -37,8 +37,9 @@ The drive link for the same is: [`drive link`](https://drive.google.com/drive/fo
 
 - [Database Management System](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/DBMS)
 - [Object Oriented Programming (C++)](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/OOPS)
-- [Computer Networks](#)
-- [Operating Systems](#)
+- [Computer Networks](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/NETWORKS)
+- [Operating Systems](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/OS)
+- [other](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/other)
 
 <div align="right">
     <b><a href="#Links">⬆ Back To Top
