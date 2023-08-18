@@ -39,8 +39,9 @@ The drive link for the same is: [`drive link`](https://drive.google.com/drive/fo
 - [Object Oriented Programming (C++)](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/OOPS)
 - [Computer Networks](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/NETWORKS)
 - [Operating Systems](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/OS)
-- [other](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/other)
-
+- [System Design](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/SYSTEM_DESIGN)
+- [Other](https://github.com/Surajv311/myCS-NOTES/tree/main/CS_CORE-NOTES/other)
+  
 <div align="right">
     <b><a href="#Links">⬆ Back To Top
     </a></b>
